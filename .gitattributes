@@ -1,6 +1,6 @@
-Projects/New[[:space:]]Unity[[:space:]]Project/bin/x86/Master/AppX/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
 Assets/3D[[:space:]]model.obj filter=lfs diff=lfs merge=lfs -text
 Assets/HoloToolkit-Examples/Medical/volume.asset filter=lfs diff=lfs merge=lfs -text
 Projects/New[[:space:]]Unity[[:space:]]Project/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
 Projects/New[[:space:]]Unity[[:space:]]Project/bin/x86/Debug/UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
+Projects/New[[:space:]]Unity[[:space:]]Project/bin/x86/Master/AppX/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
 Assets.zip filter=lfs diff=lfs merge=lfs -text
